@@ -2,9 +2,10 @@
 
 First of all, the full credit goes to INeedGames/INeedBot(s) @ ineedbots@outlook.com
 
-I greatly respect his work! 
+I greatly admire his work! 
 
 I made an aim modification for bots, so they may be more realistic.
+The main purpose is to make bots more realistic with mod extensions without touching original files.
 
 # Instructions
 

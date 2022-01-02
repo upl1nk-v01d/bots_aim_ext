@@ -5,6 +5,8 @@ First of all, the full credit goes to INeedGames/INeedBot(s) @ ineedbots@outlook
 I greatly admire his work! 
 
 I made an aim modification for bots, so they may be more realistic.
+Bots will aim smoothly and target enemies with realistic accuracy.
+
 The main purpose is to make bots more realistic with mod extensions without touching original files.
 
 # Instructions
